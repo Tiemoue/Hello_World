@@ -9,7 +9,7 @@ change the text color
 change the background screen color
 
 ### App Walk-through
-![](walkthrough.gif)
+![](walkthough.gif)
 
 
 ### Required User Stories
