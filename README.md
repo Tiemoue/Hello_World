@@ -9,7 +9,7 @@ change the text color
 change the background screen color
 
 ### App Walk-through
-Gif created with Recordit
+![](walkthrough.gif)
 
 
 ### Required User Stories
