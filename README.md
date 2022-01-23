@@ -1,3 +1,6 @@
+## Hello World
+
+### App Description
 hello-world-Android-app
 An Android Pre-work project that I made following CodePath.org's tutorials to apply for its 12-week Mobile App Design online course.
 This android app displays "Hello from Collins" with buttons that allow the user to do the following:
@@ -5,7 +8,7 @@ This android app displays "Hello from Collins" with buttons that allow the user 
 change the text color 
 change the background screen color
 
-App Walk-through
+### App Walk-through
 Gif created with Recordit
 
 
