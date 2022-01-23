@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#4169E1"
+                android:id="@+id/parent"
+                tools:context=".MainActivity">
+
+    <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hello_from_collins"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="47dp"
+            android:textSize="39sp" />
+
+    <TextView
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="22dp"
+            android:background="#66CDAA"
+            android:padding="10dp"
+            android:text="@string/click_to_change_text_color"
+            android:textColor="@color/white"
+            android:textSize="26sp" />
+
+    <TextView
+            android:id="@+id/changeBackgroundButton"
+            android:layout_above="@+id/button"
+            android:textColor="@color/white"
+            android:background="#66CDAA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/click_to_change_background_color"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="27dp"
+            android:textSize="23sp" />
+</RelativeLayout>
